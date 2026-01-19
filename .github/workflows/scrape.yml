@@ -3,7 +3,7 @@ name: Tee Time Scraper
 on:
   schedule:
     - cron: "*/15 * * * *"   # every 15 minutes (UTC)
-  workflow_dispatch: {}       # allows manual runs
+  workflow_dispatch: {}
 
 permissions:
   contents: write
@@ -13,9 +13,8 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  run-scraper:
+  scrape:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
@@ -34,10 +33,14 @@ jobs:
         run: |
           python tee_time_hours.py
 
+      - name: Run analytics
+        run: |
+          python analyze_daily_max.py
+
       - name: Commit updated CSVs
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add booked_hours_raw.csv booked_hours_daily_max.csv || true
-          git commit -m "Update booking CSVs" || echo "No changes to commit"
+          git add *.csv
+          git commit -m "Update booking CSVs + analytics" || echo "No changes to commit"
           git push
