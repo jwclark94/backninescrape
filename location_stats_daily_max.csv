@@ -12,7 +12,7 @@ bethpage-ny,bethpage-ny,4,48.12,48.0,,,41.0,,49.5,54.0
 birminghamal,birminghamal,3,29.83,15.5,,,,,35.0,39.0
 boca-raton-fl-west,boca-raton-fl-west,4,0.0,0.0,,,0.0,,0.0,0.0
 boise-id,boise-id,4,43.62,46.5,,,41.0,,45.0,42.0
-bozemanmt,bozemanmt,4,55.25,49.0,,,40.0,,65.5,66.5
+bozemanmt,bozemanmt,4,55.75,51.0,,,40.0,,65.5,66.5
 bradentonfl,bradentonfl,4,19.38,5.5,,,22.5,,26.5,23.0
 braseltonga,braseltonga,4,37.62,27.0,,,25.0,,60.5,38.0
 brunswickoh,brunswickoh,4,51.62,52.5,,,47.5,,55.5,51.0
@@ -54,12 +54,12 @@ grand-prairie-tx,grand-prairie-tx,3,22.67,14.0,,,,,39.0,15.0
 hendersonnv,hendersonnv,4,28.25,21.0,,,35.0,,24.5,32.5
 houston-atascocita-tx,houston-atascocita-tx,3,36.0,32.5,,,,,40.0,35.5
 houston-memorial-tx,houston-memorial-tx,3,36.83,22.0,,,,,44.5,44.0
-houstonheightstx,houstonheightstx,3,40.33,29.5,,,,,50.5,41.0
+houstonheightstx,houstonheightstx,3,41.0,31.5,,,,,50.5,41.0
 howell-nj,howell-nj,4,14.88,2.0,,,14.5,,16.5,26.5
 huntsville-al-research-park,huntsville-al-research-park,3,12.67,8.5,,,,,22.5,7.0
 ille-al-research-park,huntsville-al-research-park,1,9.0,,,,9.0,,,
 invernessco,invernessco,4,32.12,23.0,,,23.5,,48.0,34.0
-jacksonvillebeachfl,jacksonvillebeachfl,4,17.0,7.0,,,14.0,,20.0,27.0
+jacksonvillebeachfl,jacksonvillebeachfl,4,17.25,8.0,,,14.0,,20.0,27.0
 jenks-ok,jenks-ok,4,19.88,1.0,,,21.5,,27.0,30.0
 kansas-city-leawood,kansas-city-leawood,4,38.75,24.0,,,36.0,,51.0,44.0
 katy-tx,katy-tx,3,28.33,14.0,,,,,32.0,39.0
@@ -76,7 +76,7 @@ livonia-mi,livonia-mi,4,51.62,52.0,,,41.5,,53.0,60.0
 loveland-co-johnstown,loveland-co-johnstown,4,0.0,0.0,,,0.0,,0.0,0.0
 lubbock-tx,lubbock-tx,3,0.0,0.0,,,,,0.0,0.0
 lynchburg-va,lynchburg-va,3,0.0,0.0,,,,,0.0,0.0
-maynardma,maynardma,4,36.38,33.5,,,36.0,,42.5,33.5
+maynardma,maynardma,4,36.88,35.5,,,36.0,,42.5,33.5
 mcdonoughga,mcdonoughga,4,25.12,8.5,,,31.0,,31.0,30.0
 mckinney-tx,mckinney-tx,3,0.0,0.0,,,,,0.0,0.0
 memphis-tn-collierville,memphis-tn-collierville,3,28.0,58.5,,,,,14.5,11.0
@@ -118,7 +118,7 @@ round-rock-tx,round-rock-tx,3,0.0,0.0,,,,,0.0,0.0
 salem-keizer-or,salem-keizer-or,4,32.0,14.0,,,35.0,,41.0,38.0
 sandyut,sandyut,3,39.5,37.0,,,,,47.0,34.5
 scottsdale-az-north,scottsdale-az-north,4,0.0,0.0,,,0.0,,0.0,0.0
-scottsdaleaz,scottsdaleaz,4,45.12,27.5,,,58.0,,56.0,39.0
+scottsdaleaz,scottsdaleaz,4,45.38,28.5,,,58.0,,56.0,39.0
 shenandoah-tx,shenandoah-tx,3,0.0,0.0,,,,,0.0,0.0
 sherman-tx,sherman-tx,3,26.83,17.0,,,,,33.0,30.5
 sherwoodor,sherwoodor,4,28.12,10.0,,,29.5,,32.5,40.5
@@ -154,6 +154,6 @@ white-marsh-baltimore-md,white-marsh-baltimore-md,4,0.0,0.0,,,0.0,,0.0,0.0
 wilmingtonde,wilmingtonde,4,53.75,51.0,,,44.5,,57.0,62.5
 woodlands-houston-tx,woodlands-houston-tx,3,29.17,9.0,,,,,41.5,37.0
 woodstock-ga,woodstock-ga,4,0.0,0.0,,,0.0,,0.0,0.0
-woosteroh,woosteroh,4,45.75,41.0,,,45.0,,52.0,45.0
+woosteroh,woosteroh,4,46.25,43.0,,,45.0,,52.0,45.0
 yardley-pa,yardley-pa,4,12.0,0.0,,,0.0,,0.0,48.0
 york-pa,york-pa,4,82.25,82.5,,,96.0,,73.5,77.0
