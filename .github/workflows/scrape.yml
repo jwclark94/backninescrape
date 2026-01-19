@@ -1,4 +1,4 @@
-name: Tee Time Scraper
+name: Tee Time Scraper  # scheduled every 15 minutes
 
 on:
   schedule:
