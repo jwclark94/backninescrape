@@ -31,7 +31,7 @@ colleyville-tx,colleyville-tx,3,38.33,29.0,,,,,48.5,37.5
 colorado-springs-northgate,colorado-springs-northgate,4,29.5,28.5,,,22.5,,37.0,30.0
 columbus-upper-arlington-oh,columbus-upper-arlington-oh,4,37.25,39.0,,,25.5,,46.5,38.0
 crofton-md,crofton-md,4,0.0,0.0,,,0.0,,0.0,0.0
-dacula-ga,dacula-ga,4,32.12,14.0,,,26.5,,44.0,44.0
+dacula-ga,dacula-ga,4,32.38,15.0,,,26.5,,44.0,44.0
 denton-tx,denton-tx,3,23.0,15.5,,,,,18.5,35.0
 des-moines-ia-downtown,des-moines-ia-downtown,4,0.0,0.0,,,0.0,,0.0,0.0
 des-moines-waukee-ia,des-moines-waukee-ia,4,0.0,0.0,,,0.0,,0.0,0.0
@@ -45,7 +45,7 @@ flowermoundtx,flowermoundtx,3,47.0,28.5,,,,,61.0,51.5
 fort-collins-timnath-co,fort-collins-timnath-co,4,0.0,0.0,,,0.0,,0.0,0.0
 franklintn,franklintn,3,39.5,40.0,,,,,39.0,39.5
 gilbertaz,gilbertaz,4,37.12,32.0,,,42.0,,40.5,34.0
-glendale-az-peoria,glendale-az-peoria,4,26.38,2.0,,,34.0,,31.5,38.0
+glendale-az-peoria,glendale-az-peoria,4,27.75,7.5,,,34.0,,31.5,38.0
 glendaleaz,glendaleaz,4,41.38,42.0,,,36.5,,42.0,45.0
 goodyear-az,goodyear-az,4,0.0,0.0,,,0.0,,0.0,0.0
 granburytx,granburytx,3,19.0,5.0,,,,,26.0,26.0
@@ -104,8 +104,8 @@ paoli-pa,paoli-pa,4,0.0,0.0,,,0.0,,0.0,0.0
 papillionne,papillionne,4,45.0,51.0,,,30.0,,51.5,47.5
 paradise-valley-az,paradise-valley-az,4,9.0,7.0,,,0.0,,16.0,13.0
 planowesttx,planowesttx,3,33.0,21.0,,,,,41.0,37.0
-pomptonplainsnj,pomptonplainsnj,4,70.38,60.5,,,71.0,,66.5,83.5
-ponte-vedra-fl,ponte-vedra-fl,4,32.25,28.0,,,21.0,,35.0,45.0
+pomptonplainsnj,pomptonplainsnj,4,70.62,61.5,,,71.0,,66.5,83.5
+ponte-vedra-fl,ponte-vedra-fl,4,32.5,29.0,,,21.0,,35.0,45.0
 port-charlotte-fl,port-charlotte-fl,4,28.0,10.0,,,29.0,,38.5,34.5
 princetonnj,princetonnj,4,33.75,33.0,,,33.0,,37.0,32.0
 pueblowestco,pueblowestco,4,37.38,28.0,,,38.0,,45.0,38.5
@@ -118,11 +118,11 @@ round-rock-tx,round-rock-tx,3,0.0,0.0,,,,,0.0,0.0
 salem-keizer-or,salem-keizer-or,4,32.0,14.0,,,35.0,,41.0,38.0
 sandyut,sandyut,3,39.5,37.0,,,,,47.0,34.5
 scottsdale-az-north,scottsdale-az-north,4,0.0,0.0,,,0.0,,0.0,0.0
-scottsdaleaz,scottsdaleaz,4,43.38,20.5,,,58.0,,56.0,39.0
+scottsdaleaz,scottsdaleaz,4,44.62,25.5,,,58.0,,56.0,39.0
 shenandoah-tx,shenandoah-tx,3,0.0,0.0,,,,,0.0,0.0
 sherman-tx,sherman-tx,3,26.83,17.0,,,,,33.0,30.5
 sherwoodor,sherwoodor,4,28.12,10.0,,,29.5,,32.5,40.5
-shreveport-la-south,shreveport-la-south,4,26.25,9.5,,,30.0,,31.0,34.5
+shreveport-la-south,shreveport-la-south,4,26.5,10.5,,,30.0,,31.0,34.5
 sioux-falls-sd-south,sioux-falls-sd-south,4,43.88,41.5,,,31.5,,51.5,51.0
 southborough-ma,southborough-ma,4,56.75,46.0,,,56.0,,65.0,60.0
 southchandleraz,southchandleraz,4,14.38,4.0,,,24.5,,20.5,8.5
@@ -143,7 +143,7 @@ talkingstickaz,talkingstickaz,4,0.0,0.0,,,0.0,,0.0,0.0
 tempeaz,tempeaz,4,10.0,7.0,,,15.5,,7.5,10.0
 toms-river-nj,toms-river-nj,4,0.0,0.0,,,0.0,,0.0,0.0
 towson-baltimore-md,towson-baltimore-md,4,0.0,0.0,,,0.0,,0.0,0.0
-troy-mi,troy-mi,4,27.5,19.5,,,20.0,,37.5,33.0
+troy-mi,troy-mi,4,27.75,20.5,,,20.0,,37.5,33.0
 tulsa-ok-southern-hills,tulsa-ok-southern-hills,4,18.62,12.0,,,21.5,,20.5,20.5
 tylersouthtx,tylersouthtx,3,54.17,43.0,,,,,58.0,61.5
 virginia-beach-va-courthouse,virginia-beach-va-courthouse,3,0.0,0.0,,,,,0.0,0.0
