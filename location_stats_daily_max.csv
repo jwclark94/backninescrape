@@ -12,9 +12,9 @@ bethpage-ny,bethpage-ny,4,48.12,48.0,,,41.0,,49.5,54.0
 birminghamal,birminghamal,3,29.83,15.5,,,,,35.0,39.0
 boca-raton-fl-west,boca-raton-fl-west,4,0.0,0.0,,,0.0,,0.0,0.0
 boise-id,boise-id,4,43.62,46.5,,,41.0,,45.0,42.0
-bozemanmt,bozemanmt,4,55.0,48.0,,,40.0,,65.5,66.5
+bozemanmt,bozemanmt,4,55.25,49.0,,,40.0,,65.5,66.5
 bradentonfl,bradentonfl,4,18.75,3.0,,,22.5,,26.5,23.0
-braseltonga,braseltonga,4,37.12,25.0,,,25.0,,60.5,38.0
+braseltonga,braseltonga,4,37.62,27.0,,,25.0,,60.5,38.0
 brunswickoh,brunswickoh,4,51.62,52.5,,,47.5,,55.5,51.0
 carlsbadca,carlsbadca,4,19.75,20.0,,,17.5,,16.5,25.0
 carmelin,carmelin,4,38.75,40.5,,,33.5,,42.5,38.5
@@ -31,7 +31,7 @@ colleyville-tx,colleyville-tx,3,38.33,29.0,,,,,48.5,37.5
 colorado-springs-northgate,colorado-springs-northgate,4,29.5,28.5,,,22.5,,37.0,30.0
 columbus-upper-arlington-oh,columbus-upper-arlington-oh,4,37.25,39.0,,,25.5,,46.5,38.0
 crofton-md,crofton-md,4,0.0,0.0,,,0.0,,0.0,0.0
-dacula-ga,dacula-ga,4,31.88,13.0,,,26.5,,44.0,44.0
+dacula-ga,dacula-ga,4,32.12,14.0,,,26.5,,44.0,44.0
 denton-tx,denton-tx,3,23.0,15.5,,,,,18.5,35.0
 des-moines-ia-downtown,des-moines-ia-downtown,4,0.0,0.0,,,0.0,,0.0,0.0
 des-moines-waukee-ia,des-moines-waukee-ia,4,0.0,0.0,,,0.0,,0.0,0.0
@@ -41,10 +41,10 @@ eugeneor,eugeneor,4,55.0,50.5,,,58.0,,55.0,56.5
 farmington-mi,farmington-mi,4,28.0,21.0,,,26.5,,32.5,32.0
 fishers-in,fishers-in,4,45.12,43.0,,,44.0,,57.0,36.5
 fivetowns-ny,fivetowns-ny,4,26.88,25.5,,,23.0,,29.0,30.0
-flowermoundtx,flowermoundtx,3,46.67,27.5,,,,,61.0,51.5
+flowermoundtx,flowermoundtx,3,47.0,28.5,,,,,61.0,51.5
 fort-collins-timnath-co,fort-collins-timnath-co,4,0.0,0.0,,,0.0,,0.0,0.0
 franklintn,franklintn,3,38.83,38.0,,,,,39.0,39.5
-gilbertaz,gilbertaz,4,36.38,29.0,,,42.0,,40.5,34.0
+gilbertaz,gilbertaz,4,37.12,32.0,,,42.0,,40.5,34.0
 glendale-az-peoria,glendale-az-peoria,4,26.38,2.0,,,34.0,,31.5,38.0
 glendaleaz,glendaleaz,4,41.38,42.0,,,36.5,,42.0,45.0
 goodyear-az,goodyear-az,4,0.0,0.0,,,0.0,,0.0,0.0
@@ -63,9 +63,9 @@ jacksonvillebeachfl,jacksonvillebeachfl,4,17.0,7.0,,,14.0,,20.0,27.0
 jenks-ok,jenks-ok,4,19.88,1.0,,,21.5,,27.0,30.0
 kansas-city-leawood,kansas-city-leawood,4,38.75,24.0,,,36.0,,51.0,44.0
 katy-tx,katy-tx,3,28.33,14.0,,,,,32.0,39.0
-kellertx,kellertx,3,31.83,19.5,,,,,40.5,35.5
+kellertx,kellertx,3,32.33,21.0,,,,,40.5,35.5
 knoxvilletn,knoxvilletn,3,56.67,42.5,,,,,66.5,61.0
-lansing-mi,lansing-mi,4,46.75,47.0,,,42.0,,44.5,53.5
+lansing-mi,lansing-mi,4,47.0,48.0,,,42.0,,44.5,53.5
 lascruces-nm,lascruces-nm,4,18.12,10.5,,,19.5,,22.5,20.0
 layton-ut,layton-ut,3,26.83,18.5,,,,,34.0,28.0
 lehiut,lehiut,3,42.33,46.0,,,,,42.0,39.0
@@ -101,7 +101,7 @@ orem-ut,orem-ut,3,44.0,41.0,,,,,59.0,32.0
 orlando-fl-waterford-lakes,orlando-fl-waterford-lakes,4,0.0,0.0,,,0.0,,0.0,0.0
 overlandparkks,overlandparkks,4,44.12,44.0,,,38.0,,44.5,50.0
 paoli-pa,paoli-pa,4,0.0,0.0,,,0.0,,0.0,0.0
-papillionne,papillionne,4,44.5,49.0,,,30.0,,51.5,47.5
+papillionne,papillionne,4,45.0,51.0,,,30.0,,51.5,47.5
 paradise-valley-az,paradise-valley-az,4,9.0,7.0,,,0.0,,16.0,13.0
 planowesttx,planowesttx,3,33.0,21.0,,,,,41.0,37.0
 pomptonplainsnj,pomptonplainsnj,4,70.38,60.5,,,71.0,,66.5,83.5
@@ -121,7 +121,7 @@ scottsdale-az-north,scottsdale-az-north,4,0.0,0.0,,,0.0,,0.0,0.0
 scottsdaleaz,scottsdaleaz,4,43.38,20.5,,,58.0,,56.0,39.0
 shenandoah-tx,shenandoah-tx,3,0.0,0.0,,,,,0.0,0.0
 sherman-tx,sherman-tx,3,26.83,17.0,,,,,33.0,30.5
-sherwoodor,sherwoodor,4,27.88,9.0,,,29.5,,32.5,40.5
+sherwoodor,sherwoodor,4,28.12,10.0,,,29.5,,32.5,40.5
 shreveport-la-south,shreveport-la-south,4,26.25,9.5,,,30.0,,31.0,34.5
 sioux-falls-sd-south,sioux-falls-sd-south,4,43.88,41.5,,,31.5,,51.5,51.0
 southborough-ma,southborough-ma,4,56.75,46.0,,,56.0,,65.0,60.0
