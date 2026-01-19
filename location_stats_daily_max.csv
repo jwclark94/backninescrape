@@ -1,5 +1,5 @@
 city,slug,num_days,avg_daily_max_hours,avg_mon_max_hours,avg_tue_max_hours,avg_wed_max_hours,avg_thu_max_hours,avg_fri_max_hours,avg_sat_max_hours,avg_sun_max_hours
-aikensc,aikensc,4,39.25,24.5,,,41.0,,42.0,49.5
+aikensc,aikensc,4,39.5,25.5,,,41.0,,42.0,49.5
 allen-tx,allen-tx,3,0.0,0.0,,,,,0.0,0.0
 alpharetta-ga,alpharetta-ga,4,0.0,0.0,,,0.0,,0.0,0.0
 amarillo-tx,amarillo-tx,3,0.0,0.0,,,,,0.0,0.0
@@ -16,9 +16,9 @@ bozemanmt,bozemanmt,4,55.0,48.0,,,40.0,,65.5,66.5
 bradentonfl,bradentonfl,4,18.75,3.0,,,22.5,,26.5,23.0
 braseltonga,braseltonga,4,37.12,25.0,,,25.0,,60.5,38.0
 brunswickoh,brunswickoh,4,51.62,52.5,,,47.5,,55.5,51.0
-carlsbadca,carlsbadca,4,19.25,18.0,,,17.5,,16.5,25.0
+carlsbadca,carlsbadca,4,19.75,20.0,,,17.5,,16.5,25.0
 carmelin,carmelin,4,38.75,40.5,,,33.5,,42.5,38.5
-cedarcity,cedarcity,3,32.83,37.0,,,,,36.5,25.0
+cedarcity,cedarcity,3,33.83,40.0,,,,,36.5,25.0
 chandleraz,chandleraz,4,21.5,14.5,,,24.0,,23.0,24.5
 chapel-hill-nc,chapel-hill-nc,4,35.12,43.5,,,32.0,,30.0,35.0
 chardonoh,chardonoh,4,22.25,14.0,,,12.0,,34.0,29.0
@@ -27,7 +27,7 @@ clackamas-or,clackamas-or,4,3.25,2.0,,,1.0,,5.0,5.0
 clarkstonmi,clarkstonmi,4,26.38,24.5,,,12.0,,32.0,37.0
 clarksvilletn,clarksvilletn,4,65.88,66.5,,,52.5,,71.0,73.5
 cleveland-tn,cleveland-tn,4,0.0,0.0,,,0.0,,0.0,0.0
-colleyville-tx,colleyville-tx,3,37.67,27.0,,,,,48.5,37.5
+colleyville-tx,colleyville-tx,3,38.0,28.0,,,,,48.5,37.5
 colorado-springs-northgate,colorado-springs-northgate,4,29.5,28.5,,,22.5,,37.0,30.0
 columbus-upper-arlington-oh,columbus-upper-arlington-oh,4,37.25,39.0,,,25.5,,46.5,38.0
 crofton-md,crofton-md,4,0.0,0.0,,,0.0,,0.0,0.0
@@ -36,7 +36,7 @@ denton-tx,denton-tx,3,23.0,15.5,,,,,18.5,35.0
 des-moines-ia-downtown,des-moines-ia-downtown,4,0.0,0.0,,,0.0,,0.0,0.0
 des-moines-waukee-ia,des-moines-waukee-ia,4,0.0,0.0,,,0.0,,0.0,0.0
 east-odessa-tx,east-odessa-tx,3,0.0,0.0,,,,,0.0,0.0
-eastaustintx,eastaustintx,3,42.83,34.5,,,,,50.5,43.5
+eastaustintx,eastaustintx,3,43.33,36.0,,,,,50.5,43.5
 eugeneor,eugeneor,4,54.5,48.5,,,58.0,,55.0,56.5
 farmington-mi,farmington-mi,4,28.0,21.0,,,26.5,,32.5,32.0
 fishers-in,fishers-in,4,45.12,43.0,,,44.0,,57.0,36.5
@@ -54,7 +54,7 @@ grand-prairie-tx,grand-prairie-tx,3,22.0,12.0,,,,,39.0,15.0
 hendersonnv,hendersonnv,4,28.25,21.0,,,35.0,,24.5,32.5
 houston-atascocita-tx,houston-atascocita-tx,3,36.0,32.5,,,,,40.0,35.5
 houston-memorial-tx,houston-memorial-tx,3,36.83,22.0,,,,,44.5,44.0
-houstonheightstx,houstonheightstx,3,39.67,27.5,,,,,50.5,41.0
+houstonheightstx,houstonheightstx,3,40.33,29.5,,,,,50.5,41.0
 howell-nj,howell-nj,4,14.88,2.0,,,14.5,,16.5,26.5
 huntsville-al-research-park,huntsville-al-research-park,3,12.67,8.5,,,,,22.5,7.0
 ille-al-research-park,huntsville-al-research-park,1,9.0,,,,9.0,,,
@@ -67,7 +67,7 @@ kellertx,kellertx,3,31.83,19.5,,,,,40.5,35.5
 knoxvilletn,knoxvilletn,3,56.67,42.5,,,,,66.5,61.0
 lansing-mi,lansing-mi,4,46.75,47.0,,,42.0,,44.5,53.5
 lascruces-nm,lascruces-nm,4,18.12,10.5,,,19.5,,22.5,20.0
-layton-ut,layton-ut,3,26.17,16.5,,,,,34.0,28.0
+layton-ut,layton-ut,3,26.83,18.5,,,,,34.0,28.0
 lehiut,lehiut,3,42.33,46.0,,,,,42.0,39.0
 liberty-mo,liberty-mo,4,0.0,0.0,,,0.0,,0.0,0.0
 lincoln-ne-south,lincoln-ne-south,4,43.5,39.0,,,40.5,,50.5,44.0
@@ -93,10 +93,10 @@ naplesfl,naplesfl,4,24.38,9.5,,,32.5,,26.5,29.0
 nashville-bellevue-tn,nashville-bellevue-tn,3,12.5,5.0,,,,,16.5,16.0
 north-canton-oh,north-canton-oh,4,43.25,41.5,,,40.0,,49.0,42.5
 novi-mi,novi-mi,4,0.0,0.0,,,0.0,,0.0,0.0
-ogden-pleasant-view-ut,ogden-pleasant-view-ut,3,36.0,29.5,,,,,46.0,32.5
+ogden-pleasant-view-ut,ogden-pleasant-view-ut,3,36.33,30.5,,,,,46.0,32.5
 ogden-riverdale-ut,ogden-riverdale-ut,3,12.17,4.5,,,,,23.0,9.0
 oldsmarfl,oldsmarfl,4,29.5,14.5,,,38.5,,25.5,39.5
-omahane,omahane,4,54.75,47.5,,,46.5,,61.5,63.5
+omahane,omahane,4,55.12,49.0,,,46.5,,61.5,63.5
 orem-ut,orem-ut,3,44.0,41.0,,,,,59.0,32.0
 orlando-fl-waterford-lakes,orlando-fl-waterford-lakes,4,0.0,0.0,,,0.0,,0.0,0.0
 overlandparkks,overlandparkks,4,44.12,44.0,,,38.0,,44.5,50.0
@@ -113,7 +113,7 @@ raleigh-nc-north,raleigh-nc-north,4,9.25,7.0,,,0.0,,13.0,17.0
 rancho-mirage-ca,rancho-mirage-ca,4,0.0,0.0,,,0.0,,0.0,0.0
 richfield,richfield,3,8.67,4.5,,,,,16.5,5.0
 rochester-hills-mi,rochester-hills-mi,4,28.12,20.5,,,26.0,,36.0,30.0
-rollamo,rollamo,4,27.25,12.0,,,15.5,,42.0,39.5
+rollamo,rollamo,4,27.75,14.0,,,15.5,,42.0,39.5
 round-rock-tx,round-rock-tx,3,0.0,0.0,,,,,0.0,0.0
 salem-keizer-or,salem-keizer-or,4,32.0,14.0,,,35.0,,41.0,38.0
 sandyut,sandyut,3,39.5,37.0,,,,,47.0,34.5
