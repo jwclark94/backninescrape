@@ -29,7 +29,8 @@ HOME_URL = f"{API_BASE}/"
 API_URL_EVENTS = f"{API_BASE}/api/bookings/fetch_events"
 API_URL_LOCATIONS = f"{API_BASE}/api/locations/"
 
-BASE_DIR = "/Users/jeffclark/scraper"
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+os.makedirs(BASE_DIR, exist_ok=True)
 
 RAW_CSV_PATH = os.path.join(BASE_DIR, "booked_hours_raw.csv")
 DAILY_MAX_CSV_PATH = os.path.join(BASE_DIR, "booked_hours_daily_max.csv")
