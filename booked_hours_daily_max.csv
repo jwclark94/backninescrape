@@ -738,7 +738,7 @@ lynchburg-va,lynchburg-va,2026-01-20,Tuesday,0.0,2026-01-20T01:46:59
 virginia-beach-va-courthouse,virginia-beach-va-courthouse,2026-01-20,Tuesday,0.0,2026-01-20T01:46:59
 birminghamal,birminghamal,2026-01-21,Wednesday,7.5,2026-01-21T02:27:59
 huntsville-al-research-park,huntsville-al-research-park,2026-01-21,Wednesday,2.0,2026-01-21T02:27:59
-chandleraz,chandleraz,2026-01-21,Wednesday,3.0,2026-01-21T02:27:59
+chandleraz,chandleraz,2026-01-21,Wednesday,4.0,2026-01-21T06:52:29
 southchandleraz,southchandleraz,2026-01-21,Wednesday,5.5,2026-01-21T03:55:45
 gilbertaz,gilbertaz,2026-01-21,Wednesday,25.5,2026-01-21T04:46:38
 glendaleaz,glendaleaz,2026-01-21,Wednesday,36.5,2026-01-21T05:48:17
@@ -784,7 +784,7 @@ des-moines-ia-downtown,des-moines-ia-downtown,2026-01-21,Wednesday,0.0,2026-01-2
 des-moines-waukee-ia,des-moines-waukee-ia,2026-01-21,Wednesday,0.0,2026-01-21T02:27:59
 boise-id,boise-id,2026-01-21,Wednesday,34.0,2026-01-21T03:55:45
 meridian-id,meridian-id,2026-01-21,Wednesday,45.0,2026-01-21T03:55:45
-carmelin,carmelin,2026-01-21,Wednesday,26.5,2026-01-21T02:27:59
+carmelin,carmelin,2026-01-21,Wednesday,29.5,2026-01-21T06:52:29
 fishers-in,fishers-in,2026-01-21,Wednesday,29.5,2026-01-21T03:55:45
 kansas-city-leawood,kansas-city-leawood,2026-01-21,Wednesday,13.0,2026-01-21T05:48:17
 overlandparkks,overlandparkks,2026-01-21,Wednesday,35.0,2026-01-21T04:46:38
@@ -820,7 +820,7 @@ princetonnj,princetonnj,2026-01-21,Wednesday,28.0,2026-01-21T02:27:59
 toms-river-nj,toms-river-nj,2026-01-21,Wednesday,0.0,2026-01-21T02:27:59
 lascruces-nm,lascruces-nm,2026-01-21,Wednesday,9.0,2026-01-21T03:55:45
 hendersonnv,hendersonnv,2026-01-21,Wednesday,14.5,2026-01-21T04:46:38
-mesquitenv,mesquitenv,2026-01-21,Wednesday,16.5,2026-01-21T03:55:45
+mesquitenv,mesquitenv,2026-01-21,Wednesday,18.0,2026-01-21T06:52:29
 southsummerlinnv,southsummerlinnv,2026-01-21,Wednesday,24.0,2026-01-21T05:48:17
 summerlinlasvegasnv,summerlinlasvegasnv,2026-01-21,Wednesday,19.0,2026-01-21T02:27:59
 bethpage-ny,bethpage-ny,2026-01-21,Wednesday,42.0,2026-01-21T02:27:59
@@ -832,8 +832,8 @@ north-canton-oh,north-canton-oh,2026-01-21,Wednesday,34.5,2026-01-21T05:17:56
 woosteroh,woosteroh,2026-01-21,Wednesday,34.0,2026-01-21T03:55:45
 jenks-ok,jenks-ok,2026-01-21,Wednesday,3.0,2026-01-21T04:46:38
 tulsa-ok-southern-hills,tulsa-ok-southern-hills,2026-01-21,Wednesday,9.0,2026-01-21T04:46:38
-clackamas-or,clackamas-or,2026-01-21,Wednesday,0.0,2026-01-21T02:27:59
-eugeneor,eugeneor,2026-01-21,Wednesday,34.0,2026-01-21T04:46:38
+clackamas-or,clackamas-or,2026-01-21,Wednesday,1.0,2026-01-21T06:52:29
+eugeneor,eugeneor,2026-01-21,Wednesday,35.0,2026-01-21T06:52:29
 salem-keizer-or,salem-keizer-or,2026-01-21,Wednesday,8.0,2026-01-21T02:27:59
 sherwoodor,sherwoodor,2026-01-21,Wednesday,24.0,2026-01-21T03:55:45
 paoli-pa,paoli-pa,2026-01-21,Wednesday,72.0,2026-01-21T02:27:59
@@ -848,7 +848,7 @@ cleveland-tn,cleveland-tn,2026-01-21,Wednesday,0.0,2026-01-21T02:27:59
 franklintn,franklintn,2026-01-21,Wednesday,27.0,2026-01-21T05:48:17
 knoxvilletn,knoxvilletn,2026-01-21,Wednesday,33.0,2026-01-21T05:17:56
 memphis-tn-collierville,memphis-tn-collierville,2026-01-21,Wednesday,2.0,2026-01-21T04:46:38
-mt-juliet-tn,mt-juliet-tn,2026-01-21,Wednesday,7.5,2026-01-21T02:27:59
+mt-juliet-tn,mt-juliet-tn,2026-01-21,Wednesday,9.5,2026-01-21T06:52:29
 nashville-bellevue-tn,nashville-bellevue-tn,2026-01-21,Wednesday,0.0,2026-01-21T02:27:59
 spring-hill-tn-north,spring-hill-tn-north,2026-01-21,Wednesday,24.5,2026-01-21T02:27:59
 allen-tx,allen-tx,2026-01-21,Wednesday,0.0,2026-01-21T02:27:59
@@ -868,7 +868,7 @@ kellertx,kellertx,2026-01-21,Wednesday,13.0,2026-01-21T05:17:56
 lubbock-tx,lubbock-tx,2026-01-21,Wednesday,0.0,2026-01-21T02:27:59
 woodlands-houston-tx,woodlands-houston-tx,2026-01-21,Wednesday,17.5,2026-01-21T05:17:56
 mckinney-tx,mckinney-tx,2026-01-21,Wednesday,0.0,2026-01-21T02:27:59
-midlandtx,midlandtx,2026-01-21,Wednesday,33.5,2026-01-21T06:00:56
+midlandtx,midlandtx,2026-01-21,Wednesday,35.5,2026-01-21T06:52:29
 east-odessa-tx,east-odessa-tx,2026-01-21,Wednesday,0.0,2026-01-21T02:27:59
 planowesttx,planowesttx,2026-01-21,Wednesday,8.5,2026-01-21T04:46:38
 round-rock-tx,round-rock-tx,2026-01-21,Wednesday,0.0,2026-01-21T02:27:59
@@ -881,12 +881,12 @@ cedarcity,cedarcity,2026-01-21,Wednesday,29.5,2026-01-21T02:27:59
 layton-ut,layton-ut,2026-01-21,Wednesday,9.0,2026-01-21T02:27:59
 lehiut,lehiut,2026-01-21,Wednesday,35.5,2026-01-21T02:27:59
 millcreekut,millcreekut,2026-01-21,Wednesday,16.0,2026-01-21T04:46:38
-murrayut,murrayut,2026-01-21,Wednesday,13.5,2026-01-21T02:27:59
+murrayut,murrayut,2026-01-21,Wednesday,15.5,2026-01-21T06:52:29
 ogden-pleasant-view-ut,ogden-pleasant-view-ut,2026-01-21,Wednesday,21.0,2026-01-21T05:48:17
 ogden-riverdale-ut,ogden-riverdale-ut,2026-01-21,Wednesday,11.0,2026-01-21T02:27:59
-orem-ut,orem-ut,2026-01-21,Wednesday,17.0,2026-01-21T05:17:56
+orem-ut,orem-ut,2026-01-21,Wednesday,19.0,2026-01-21T06:52:29
 richfield,richfield,2026-01-21,Wednesday,4.0,2026-01-21T02:27:59
-sandyut,sandyut,2026-01-21,Wednesday,20.0,2026-01-21T04:46:38
+sandyut,sandyut,2026-01-21,Wednesday,21.5,2026-01-21T06:52:29
 spanishforkut,spanishforkut,2026-01-21,Wednesday,15.0,2026-01-21T03:55:45
 stgeorgeut,stgeorgeut,2026-01-21,Wednesday,7.0,2026-01-21T02:27:59
 st-george-ut-river-rd,st-george-ut-river-rd,2026-01-21,Wednesday,18.5,2026-01-21T04:46:38
