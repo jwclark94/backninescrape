@@ -1366,7 +1366,7 @@ st-george-ut-river-rd,st-george-ut-river-rd,2026-01-24,Saturday,32.0,2026-01-24T
 st-george-ut-sunset,st-george-ut-sunset,2026-01-24,Saturday,19.5,2026-01-24T23:23:30
 lynchburg-va,lynchburg-va,2026-01-24,Saturday,0.0,2026-01-24T01:42:43
 virginia-beach-va-courthouse,virginia-beach-va-courthouse,2026-01-24,Saturday,0.0,2026-01-24T01:42:43
-birminghamal,birminghamal,2026-01-25,Sunday,33.0,2026-01-25T03:21:05
+birminghamal,birminghamal,2026-01-25,Sunday,35.0,2026-01-25T07:30:27
 huntsville-al-research-park,huntsville-al-research-park,2026-01-25,Sunday,7.0,2026-01-25T01:06:09
 chandleraz,chandleraz,2026-01-25,Sunday,13.0,2026-01-25T07:00:56
 southchandleraz,southchandleraz,2026-01-25,Sunday,3.0,2026-01-25T01:06:09
@@ -1376,12 +1376,12 @@ goodyear-az,goodyear-az,2026-01-25,Sunday,0.0,2026-01-25T01:06:09
 mesa-az-east,mesa-az-east,2026-01-25,Sunday,2.0,2026-01-25T06:42:31
 paradise-valley-az,paradise-valley-az,2026-01-25,Sunday,7.0,2026-01-25T03:21:05
 glendale-az-peoria,glendale-az-peoria,2026-01-25,Sunday,10.0,2026-01-25T05:43:14
-scottsdaleaz,scottsdaleaz,2026-01-25,Sunday,20.0,2026-01-25T07:00:56
+scottsdaleaz,scottsdaleaz,2026-01-25,Sunday,22.0,2026-01-25T07:30:27
 scottsdale-az-north,scottsdale-az-north,2026-01-25,Sunday,0.0,2026-01-25T01:06:09
 surpriseaz,surpriseaz,2026-01-25,Sunday,10.5,2026-01-25T07:00:56
 talkingstickaz,talkingstickaz,2026-01-25,Sunday,0.0,2026-01-25T01:06:09
 tempeaz,tempeaz,2026-01-25,Sunday,2.0,2026-01-25T01:06:09
-carlsbadca,carlsbadca,2026-01-25,Sunday,17.0,2026-01-25T03:21:05
+carlsbadca,carlsbadca,2026-01-25,Sunday,19.0,2026-01-25T07:30:27
 rancho-mirage-ca,rancho-mirage-ca,2026-01-25,Sunday,0.0,2026-01-25T01:06:09
 fort-collins-timnath-co,fort-collins-timnath-co,2026-01-25,Sunday,0.0,2026-01-25T01:06:09
 invernessco,invernessco,2026-01-25,Sunday,20.0,2026-01-25T05:06:53
@@ -1428,10 +1428,10 @@ crofton-md,crofton-md,2026-01-25,Sunday,0.0,2026-01-25T01:06:09
 towson-baltimore-md,towson-baltimore-md,2026-01-25,Sunday,0.0,2026-01-25T01:06:09
 white-marsh-baltimore-md,white-marsh-baltimore-md,2026-01-25,Sunday,0.0,2026-01-25T01:06:09
 clarkstonmi,clarkstonmi,2026-01-25,Sunday,29.5,2026-01-25T04:34:15
-farmington-mi,farmington-mi,2026-01-25,Sunday,41.0,2026-01-25T03:21:05
+farmington-mi,farmington-mi,2026-01-25,Sunday,42.5,2026-01-25T07:30:27
 grand-blanc-mi,grand-blanc-mi,2026-01-25,Sunday,14.0,2026-01-25T04:34:15
 lansing-mi,lansing-mi,2026-01-25,Sunday,46.5,2026-01-25T03:21:05
-livonia-mi,livonia-mi,2026-01-25,Sunday,53.5,2026-01-25T05:57:49
+livonia-mi,livonia-mi,2026-01-25,Sunday,55.5,2026-01-25T07:30:27
 novi-mi,novi-mi,2026-01-25,Sunday,0.0,2026-01-25T01:06:09
 rochester-hills-mi,rochester-hills-mi,2026-01-25,Sunday,21.5,2026-01-25T03:21:05
 troy-mi,troy-mi,2026-01-25,Sunday,56.0,2026-01-25T06:42:31
@@ -1506,7 +1506,7 @@ round-rock-tx,round-rock-tx,2026-01-25,Sunday,0.0,2026-01-25T01:06:09
 shenandoah-tx,shenandoah-tx,2026-01-25,Sunday,0.0,2026-01-25T01:06:09
 sherman-tx,sherman-tx,2026-01-25,Sunday,0.0,2026-01-25T01:06:09
 spring-tx,spring-tx,2026-01-25,Sunday,3.0,2026-01-25T01:06:09
-tylersouthtx,tylersouthtx,2026-01-25,Sunday,47.0,2026-01-25T06:42:31
+tylersouthtx,tylersouthtx,2026-01-25,Sunday,48.0,2026-01-25T07:30:27
 americanforkut,americanforkut,2026-01-25,Sunday,43.0,2026-01-25T04:34:15
 cedarcity,cedarcity,2026-01-25,Sunday,28.0,2026-01-25T04:34:15
 layton-ut,layton-ut,2026-01-25,Sunday,14.0,2026-01-25T05:06:53
@@ -1515,9 +1515,9 @@ millcreekut,millcreekut,2026-01-25,Sunday,16.0,2026-01-25T03:21:05
 murrayut,murrayut,2026-01-25,Sunday,9.0,2026-01-25T01:06:09
 ogden-pleasant-view-ut,ogden-pleasant-view-ut,2026-01-25,Sunday,32.5,2026-01-25T04:34:15
 ogden-riverdale-ut,ogden-riverdale-ut,2026-01-25,Sunday,7.0,2026-01-25T01:06:09
-orem-ut,orem-ut,2026-01-25,Sunday,16.0,2026-01-25T06:42:31
+orem-ut,orem-ut,2026-01-25,Sunday,19.5,2026-01-25T07:30:27
 richfield,richfield,2026-01-25,Sunday,4.0,2026-01-25T01:06:09
-sandyut,sandyut,2026-01-25,Sunday,25.0,2026-01-25T07:00:56
+sandyut,sandyut,2026-01-25,Sunday,27.0,2026-01-25T07:30:27
 spanishforkut,spanishforkut,2026-01-25,Sunday,31.5,2026-01-25T05:43:14
 stgeorgeut,stgeorgeut,2026-01-25,Sunday,4.0,2026-01-25T05:57:49
 st-george-ut-river-rd,st-george-ut-river-rd,2026-01-25,Sunday,16.0,2026-01-25T04:34:15
