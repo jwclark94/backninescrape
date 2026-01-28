@@ -1844,7 +1844,7 @@ birminghamal,birminghamal,2026-01-28,Wednesday,33.5,2026-01-28T18:57:04
 huntsville-al-research-park,huntsville-al-research-park,2026-01-28,Wednesday,12.5,2026-01-28T19:54:52
 chandleraz,chandleraz,2026-01-28,Wednesday,22.0,2026-01-28T21:58:35
 southchandleraz,southchandleraz,2026-01-28,Wednesday,24.0,2026-01-28T23:35:30
-gilbertaz,gilbertaz,2026-01-28,Wednesday,41.0,2026-01-28T23:35:30
+gilbertaz,gilbertaz,2026-01-28,Wednesday,41.5,2026-01-28T23:54:36
 glendaleaz,glendaleaz,2026-01-28,Wednesday,43.5,2026-01-28T23:35:30
 goodyear-az,goodyear-az,2026-01-28,Wednesday,0.0,2026-01-28T01:19:22
 mesa-az-east,mesa-az-east,2026-01-28,Wednesday,7.5,2026-01-28T22:37:18
@@ -1874,7 +1874,7 @@ naples-fl-north,naples-fl-north,2026-01-28,Wednesday,14.0,2026-01-28T23:35:30
 oldsmarfl,oldsmarfl,2026-01-28,Wednesday,41.5,2026-01-28T22:37:18
 orlando-fl-waterford-lakes,orlando-fl-waterford-lakes,2026-01-28,Wednesday,0.0,2026-01-28T01:19:22
 ponte-vedra-fl,ponte-vedra-fl,2026-01-28,Wednesday,27.5,2026-01-28T21:38:49
-port-charlotte-fl,port-charlotte-fl,2026-01-28,Wednesday,21.0,2026-01-28T20:31:02
+port-charlotte-fl,port-charlotte-fl,2026-01-28,Wednesday,23.5,2026-01-28T23:54:36
 spring-hill-fl,spring-hill-fl,2026-01-28,Wednesday,28.5,2026-01-28T19:34:54
 alpharetta-ga,alpharetta-ga,2026-01-28,Wednesday,10.0,2026-01-28T23:35:30
 westmidtownga,westmidtownga,2026-01-28,Wednesday,38.5,2026-01-28T23:35:30
@@ -1907,7 +1907,7 @@ grand-blanc-mi,grand-blanc-mi,2026-01-28,Wednesday,30.0,2026-01-28T19:34:54
 lansing-mi,lansing-mi,2026-01-28,Wednesday,39.5,2026-01-28T21:38:49
 livonia-mi,livonia-mi,2026-01-28,Wednesday,35.5,2026-01-28T16:34:34
 novi-mi,novi-mi,2026-01-28,Wednesday,0.0,2026-01-28T01:19:22
-rochester-hills-mi,rochester-hills-mi,2026-01-28,Wednesday,26.0,2026-01-28T22:37:18
+rochester-hills-mi,rochester-hills-mi,2026-01-28,Wednesday,28.0,2026-01-28T23:54:36
 troy-mi,troy-mi,2026-01-28,Wednesday,23.0,2026-01-28T19:34:54
 west-bloomfield-mi,west-bloomfield-mi,2026-01-28,Wednesday,0.0,2026-01-28T01:19:22
 st-louis-crestwood-mo,st-louis-crestwood-mo,2026-01-28,Wednesday,28.5,2026-01-28T21:58:35
@@ -1924,8 +1924,8 @@ pomptonplainsnj,pomptonplainsnj,2026-01-28,Wednesday,60.5,2026-01-28T15:54:10
 princetonnj,princetonnj,2026-01-28,Wednesday,36.5,2026-01-28T19:34:54
 toms-river-nj,toms-river-nj,2026-01-28,Wednesday,0.0,2026-01-28T01:19:22
 lascruces-nm,lascruces-nm,2026-01-28,Wednesday,23.0,2026-01-28T21:38:49
-hendersonnv,hendersonnv,2026-01-28,Wednesday,29.5,2026-01-28T23:35:30
-mesquitenv,mesquitenv,2026-01-28,Wednesday,21.0,2026-01-28T23:35:30
+hendersonnv,hendersonnv,2026-01-28,Wednesday,30.5,2026-01-28T23:54:36
+mesquitenv,mesquitenv,2026-01-28,Wednesday,23.0,2026-01-28T23:54:36
 southsummerlinnv,southsummerlinnv,2026-01-28,Wednesday,39.0,2026-01-28T20:31:02
 summerlinlasvegasnv,summerlinlasvegasnv,2026-01-28,Wednesday,32.0,2026-01-28T22:37:18
 bethpage-ny,bethpage-ny,2026-01-28,Wednesday,37.5,2026-01-28T04:15:59
@@ -1937,10 +1937,10 @@ north-canton-oh,north-canton-oh,2026-01-28,Wednesday,45.5,2026-01-28T10:44:46
 woosteroh,woosteroh,2026-01-28,Wednesday,49.5,2026-01-28T23:35:30
 jenks-ok,jenks-ok,2026-01-28,Wednesday,16.0,2026-01-28T22:59:31
 tulsa-ok-southern-hills,tulsa-ok-southern-hills,2026-01-28,Wednesday,19.5,2026-01-28T23:35:30
-clackamas-or,clackamas-or,2026-01-28,Wednesday,21.0,2026-01-28T22:59:31
+clackamas-or,clackamas-or,2026-01-28,Wednesday,24.0,2026-01-28T23:54:36
 eugeneor,eugeneor,2026-01-28,Wednesday,49.5,2026-01-28T21:38:49
 salem-keizer-or,salem-keizer-or,2026-01-28,Wednesday,39.0,2026-01-28T22:59:31
-sherwoodor,sherwoodor,2026-01-28,Wednesday,40.0,2026-01-28T21:38:49
+sherwoodor,sherwoodor,2026-01-28,Wednesday,41.0,2026-01-28T23:54:36
 paoli-pa,paoli-pa,2026-01-28,Wednesday,32.5,2026-01-28T22:37:18
 yardley-pa,yardley-pa,2026-01-28,Wednesday,27.0,2026-01-28T04:58:05
 york-pa,york-pa,2026-01-28,Wednesday,35.5,2026-01-28T22:59:31
@@ -1962,7 +1962,7 @@ houston-atascocita-tx,houston-atascocita-tx,2026-01-28,Wednesday,31.0,2026-01-28
 eastaustintx,eastaustintx,2026-01-28,Wednesday,36.5,2026-01-28T19:54:52
 southwestaustintx,southwestaustintx,2026-01-28,Wednesday,19.5,2026-01-28T22:59:31
 colleyville-tx,colleyville-tx,2026-01-28,Wednesday,35.5,2026-01-28T21:58:35
-denton-tx,denton-tx,2026-01-28,Wednesday,27.0,2026-01-28T23:35:30
+denton-tx,denton-tx,2026-01-28,Wednesday,29.0,2026-01-28T23:54:36
 flowermoundtx,flowermoundtx,2026-01-28,Wednesday,51.5,2026-01-28T23:35:30
 granburytx,granburytx,2026-01-28,Wednesday,22.0,2026-01-28T20:59:56
 grand-prairie-tx,grand-prairie-tx,2026-01-28,Wednesday,19.0,2026-01-28T20:31:02
@@ -1995,6 +1995,6 @@ sandyut,sandyut,2026-01-28,Wednesday,33.5,2026-01-28T18:20:03
 spanishforkut,spanishforkut,2026-01-28,Wednesday,31.5,2026-01-28T20:59:56
 stgeorgeut,stgeorgeut,2026-01-28,Wednesday,18.0,2026-01-28T21:58:35
 st-george-ut-river-rd,st-george-ut-river-rd,2026-01-28,Wednesday,22.0,2026-01-28T23:35:30
-st-george-ut-sunset,st-george-ut-sunset,2026-01-28,Wednesday,16.5,2026-01-28T22:37:18
+st-george-ut-sunset,st-george-ut-sunset,2026-01-28,Wednesday,18.5,2026-01-28T23:54:36
 lynchburg-va,lynchburg-va,2026-01-28,Wednesday,0.0,2026-01-28T01:19:22
 virginia-beach-va-courthouse,virginia-beach-va-courthouse,2026-01-28,Wednesday,0.0,2026-01-28T01:19:22
