@@ -2324,11 +2324,11 @@ goodyear-az,goodyear-az,2026-01-31,Saturday,0.0,2026-01-31T02:41:59
 mesa-az-east,mesa-az-east,2026-01-31,Saturday,0.0,2026-01-31T02:41:59
 paradise-valley-az,paradise-valley-az,2026-01-31,Saturday,96.0,2026-01-31T05:54:43
 glendale-az-peoria,glendale-az-peoria,2026-01-31,Saturday,10.0,2026-01-31T06:38:47
-scottsdaleaz,scottsdaleaz,2026-01-31,Saturday,20.0,2026-01-31T05:54:43
+scottsdaleaz,scottsdaleaz,2026-01-31,Saturday,21.0,2026-01-31T07:43:47
 scottsdale-az-north,scottsdale-az-north,2026-01-31,Saturday,0.0,2026-01-31T02:41:59
 surpriseaz,surpriseaz,2026-01-31,Saturday,13.0,2026-01-31T05:54:43
 talkingstickaz,talkingstickaz,2026-01-31,Saturday,0.0,2026-01-31T02:41:59
-tempeaz,tempeaz,2026-01-31,Saturday,6.0,2026-01-31T02:41:59
+tempeaz,tempeaz,2026-01-31,Saturday,8.0,2026-01-31T07:43:47
 carlsbadca,carlsbadca,2026-01-31,Saturday,12.5,2026-01-31T07:16:31
 rancho-mirage-ca,rancho-mirage-ca,2026-01-31,Saturday,0.0,2026-01-31T02:41:59
 fort-collins-timnath-co,fort-collins-timnath-co,2026-01-31,Saturday,0.0,2026-01-31T02:41:59
@@ -2336,7 +2336,7 @@ invernessco,invernessco,2026-01-31,Saturday,19.0,2026-01-31T06:38:47
 littleton-co,littleton-co,2026-01-31,Saturday,19.5,2026-01-31T02:41:59
 loveland-co-johnstown,loveland-co-johnstown,2026-01-31,Saturday,0.0,2026-01-31T02:41:59
 colorado-springs-northgate,colorado-springs-northgate,2026-01-31,Saturday,27.0,2026-01-31T02:41:59
-pueblowestco,pueblowestco,2026-01-31,Saturday,30.5,2026-01-31T05:54:43
+pueblowestco,pueblowestco,2026-01-31,Saturday,32.5,2026-01-31T07:43:47
 westminster-co,westminster-co,2026-01-31,Saturday,0.0,2026-01-31T02:41:59
 wilmingtonde,wilmingtonde,2026-01-31,Saturday,51.5,2026-01-31T07:16:31
 boca-raton-fl-west,boca-raton-fl-west,2026-01-31,Saturday,0.0,2026-01-31T02:41:59
@@ -2379,7 +2379,7 @@ clarkstonmi,clarkstonmi,2026-01-31,Saturday,20.0,2026-01-31T05:11:31
 farmington-mi,farmington-mi,2026-01-31,Saturday,39.5,2026-01-31T07:16:31
 grand-blanc-mi,grand-blanc-mi,2026-01-31,Saturday,30.5,2026-01-31T05:54:43
 lansing-mi,lansing-mi,2026-01-31,Saturday,45.0,2026-01-31T02:41:59
-livonia-mi,livonia-mi,2026-01-31,Saturday,49.0,2026-01-31T02:41:59
+livonia-mi,livonia-mi,2026-01-31,Saturday,51.0,2026-01-31T07:43:47
 novi-mi,novi-mi,2026-01-31,Saturday,0.0,2026-01-31T02:41:59
 rochester-hills-mi,rochester-hills-mi,2026-01-31,Saturday,32.0,2026-01-31T06:38:47
 troy-mi,troy-mi,2026-01-31,Saturday,25.0,2026-01-31T05:11:31
@@ -2405,7 +2405,7 @@ summerlinlasvegasnv,summerlinlasvegasnv,2026-01-31,Saturday,15.5,2026-01-31T02:4
 bethpage-ny,bethpage-ny,2026-01-31,Saturday,51.0,2026-01-31T04:18:49
 fivetowns-ny,fivetowns-ny,2026-01-31,Saturday,16.5,2026-01-31T04:18:49
 brunswickoh,brunswickoh,2026-01-31,Saturday,51.5,2026-01-31T02:41:59
-chardonoh,chardonoh,2026-01-31,Saturday,22.5,2026-01-31T06:38:47
+chardonoh,chardonoh,2026-01-31,Saturday,24.5,2026-01-31T07:43:47
 columbus-upper-arlington-oh,columbus-upper-arlington-oh,2026-01-31,Saturday,54.0,2026-01-31T04:18:49
 north-canton-oh,north-canton-oh,2026-01-31,Saturday,51.0,2026-01-31T04:18:49
 woosteroh,woosteroh,2026-01-31,Saturday,50.5,2026-01-31T02:41:59
@@ -2433,7 +2433,7 @@ spring-hill-tn-north,spring-hill-tn-north,2026-01-31,Saturday,54.5,2026-01-31T04
 allen-tx,allen-tx,2026-01-31,Saturday,0.0,2026-01-31T02:41:59
 amarillo-tx,amarillo-tx,2026-01-31,Saturday,0.0,2026-01-31T02:41:59
 houston-atascocita-tx,houston-atascocita-tx,2026-01-31,Saturday,33.0,2026-01-31T05:11:31
-eastaustintx,eastaustintx,2026-01-31,Saturday,74.0,2026-01-31T05:54:43
+eastaustintx,eastaustintx,2026-01-31,Saturday,76.0,2026-01-31T07:43:47
 southwestaustintx,southwestaustintx,2026-01-31,Saturday,29.5,2026-01-31T05:11:31
 colleyville-tx,colleyville-tx,2026-01-31,Saturday,31.0,2026-01-31T02:41:59
 denton-tx,denton-tx,2026-01-31,Saturday,32.0,2026-01-31T07:16:31
@@ -2445,7 +2445,7 @@ houston-memorial-tx,houston-memorial-tx,2026-01-31,Saturday,47.5,2026-01-31T07:1
 katy-tx,katy-tx,2026-01-31,Saturday,37.0,2026-01-31T06:38:47
 kellertx,kellertx,2026-01-31,Saturday,41.5,2026-01-31T05:54:43
 lubbock-tx,lubbock-tx,2026-01-31,Saturday,0.0,2026-01-31T02:41:59
-woodlands-houston-tx,woodlands-houston-tx,2026-01-31,Saturday,23.5,2026-01-31T05:11:31
+woodlands-houston-tx,woodlands-houston-tx,2026-01-31,Saturday,24.5,2026-01-31T07:43:47
 mckinney-tx,mckinney-tx,2026-01-31,Saturday,20.5,2026-01-31T04:18:49
 midlandtx,midlandtx,2026-01-31,Saturday,61.0,2026-01-31T05:11:31
 east-odessa-tx,east-odessa-tx,2026-01-31,Saturday,0.0,2026-01-31T02:41:59
