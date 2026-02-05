@@ -164,10 +164,15 @@ def total_booked_hours(events: list[dict], day: date) -> float:
     day_end = day_start + timedelta(days=1)
 
     for e in events:
-        # OPTIONAL: skip member blocks if you want public-only
-        # if e.get("booking_id") is None:
-        #     continue
+        # 👇 NEW CODE: Skip cleaning blocks
+        title = (e.get("title") or e.get("name") or "").lower()
+        if "clean" in title:
+            continue
+        # 👆 END NEW CODE
 
+        # ... (keep the rest of the existing code below exactly the same)
+        # if e.get("booking_id") is None: ...
+        
         start_str = e.get("start")
         end_str = e.get("end")
         if not start_str or not end_str:
